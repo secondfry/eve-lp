@@ -7,10 +7,10 @@
         "sails": "0.9.16",
         "grunt": "0.4.1",
         "sails-mysql": "~0.9.0",
-        "ejs": "0.8.4",
+        "ejs": "^2.5.5",
         "optimist": "0.3.4",
         "xml2js": "0.4.4",
-        "moment": "2.8.0"
+        "moment": "^2.11.2"
     },
     "scripts": {
         "start": "node app.js",
